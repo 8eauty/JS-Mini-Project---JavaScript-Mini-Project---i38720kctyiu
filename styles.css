@@ -1,3 +1,4 @@
+//adding properties by selecting div tag
 div{
     border:2px solid black;
     width:250px;
@@ -6,6 +7,7 @@ div{
     
 
 }
+// adding properties by selecting tr tag
 tr{
     text-align: center;
     background-color: aquamarine;
@@ -15,6 +17,7 @@ tr{
     
 
 }
+//adding properties by selecting td tag
 td{
     border: 2px solid black;
     width: 40px;
@@ -22,6 +25,7 @@ td{
 
     
 }
+//giving some properties to input tag
 #input{
     height: 40px;
     width:180px ;
@@ -29,6 +33,7 @@ td{
     
     
 }
+//making the heading in center
 h3{
     text-align: center;
 }
