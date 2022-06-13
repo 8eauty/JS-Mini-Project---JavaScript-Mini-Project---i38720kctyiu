@@ -1,5 +1,6 @@
 
         let string="";
+//I selected buttons by tag selector and applied event listener on button click.
 let buttons=document.querySelectorAll("button");
 Array.from(buttons).forEach((button) => {
     button.addEventListener('click',(e)=>{
